@@ -1,6 +1,6 @@
 class Dog 
   def name=(input)
-    name = input
+    this_dogs_name = input
   end
   
 end
